@@ -20,7 +20,7 @@
 		<tr>
 		  <td>
 			<?php
-			$n1="Much. Abdul Azis" ;
+			$n1="MUCHAMAD ABDUL AZIS" ;
 			echo $n1;
 			?>
 			</td>
